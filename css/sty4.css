@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+}
+.rojo{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blanco{
+    color: white;
+    font-family: serif;
+}
+.amarillo{
+    color: yellowgreen;
+    font-family: sans-serif;
+}
+
+.naranja{
+    color: orange;
+    font-family: monospace;
+}
